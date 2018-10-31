@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: pytrie
+Version: 0.0.1
+Summary: A Trie in computer science is a tree structure that allows you to do things such as very quick lookup of words within the english language.
+Home-page: UNKNOWN
+Author: po3rin
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6

@@ -1,0 +1,3 @@
+[console_scripts]
+pytrie = trie.trie:main
+
